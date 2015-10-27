@@ -1,0 +1,16 @@
+{
+    "name": "iip-design/facebook-like-box-widget",
+    "description": "Facebook Like Box Widget is a social plugin that enables Facebook Page owners to attract and gain Likes from their own website.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Peter Kaizer",
+            "email": "peter.kaizer@aquilent.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "v1.0.21"
+    }
+}
